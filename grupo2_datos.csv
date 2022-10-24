@@ -1,0 +1,617 @@
+Model;Fabricante;Codename;Series;precio;L2.Cache.MB.;TDP.Watt;MHz;Cores;Process.nm.;Architecture;Days.old;Graphics.Card;Cinebench.R10.32Bit.Single;SuperPI.1M.;TrueCrypt.AES
+Intel Core i5-1235U;Intel;Alder Lake-U;Alder Lake-M;147;9.5;15;900;10;10;x86;266;Iris Xe G7 80EUs;NA;NA;NA
+Intel Core i5-1038NG7;Intel;Ice Lake-U;Ice Lake;103;2;28;2000;4;10;x86;876;Iris Plus Graphics G7 (Ice Lake 64 EU);6743;9.45;NA
+Intel Core i7-9700K;Intel;Coffee Lake-R;Coffee Lake;403;2;95;3600;8;14;x86;1450;UHD Graphics 630;7653;7.74;8.1
+Intel Core i5-12500H;Intel;Alder Lake-P;Alder Lake-P;376;10;45;1800;12;10;x86;266;Iris Xe G7 80EUs;NA;NA;NA
+Intel Core i5-7500;Intel;Kaby Lake;Kaby Lake;120;1;65;3400;4;14;x86;2093;HD Graphics 630;NA;9;3.2
+Intel Core i7-4710MQ;Intel;Haswell;Core i7;103;1;47;2500;4;22;x86;3088;HD Graphics 4600;4962.5;NA;NA
+Intel Core i7-6820HK;Intel;Skylake;Core i7;109;1;45;2700;4;14;x86;2583;HD Graphics 530;5653;10.3;3.9
+Intel Core i5-7440HQ;Intel;Kaby Lake;Kaby Lake;115;1;45;2800;4;14;x86;2093;HD Graphics 630;NA;9.89;NA
+Intel Core i5-8257U;Intel;Coffee Lake-U;Coffee Lake;154;1;15;1400;4;14;x86;1175;Iris Plus Graphics 645;NA;NA;NA
+AMD Ryzen 7 2700X;AMD;Zen+;Ryzen 7;420;4;105;3700;8;12;x86;1629;newitem;5256;10.8;10.6
+AMD Ryzen 3 4300U;AMD;Renoir (Zen 2);Renoir (Ryzen 4000 APU);118;2;15;2700;4;7;x86;994;Vega 5;NA;NA;3.2
+Intel Core i5-8350U;Intel;Kaby Lake Refresh;Kaby Lake Refresh;90;1;15;1700;4;14;x86;1863;UHD Graphics 620;5460.5;10.94;4.05
+AMD Ryzen 5 3550H;AMD;Zen+;Picasso (Ryzen 3000 APU);128;2;35;2100;4;12;x86;1360;Vega 8;4592;11.91;4.7
+AMD Ryzen 7 1800X;AMD;Zen;Ryzen 7;289;4;95;3600;8;14;x86;2035;newitem;5062;12.7;9.7
+AMD Ryzen 5 5600U;AMD;Cezanne U (Zen 3);Cezanne (Zen 3, Ryzen 5000);260;3;25;2300;6;7;x86;628;Vega 7;5674;8.54;6.4
+Intel Core i5-4590;Intel;Haswell;Core i5 (Desktop);150;1;84;3300;4;22;x86;3101;HD Graphics 4600;5479;NA;NA
+Intel Core i9-12900;Intel;Alder Lake;Alder Lake-S;799;14;65;2400;16;10;x86;266;UHD Graphics 770;8949;NA;17.2
+Intel Core i5-10300H;Intel;Comet Lake-H;Comet Lake;140;1;45;2500;4;14;x86;908;UHD Graphics 630;7130;8.72;3.1
+AMD Ryzen 5 2600;AMD;Zen+;Ryzen 5;126;4;65;3400;6;12;x86;1628;newitem;4726;11.17;7.5
+Intel Core i7-2670QM;Intel;Sandy Bridge;Core i7;52;1;45;2200;4;32;x86;3982;HD Graphics 3000;3899.5;NA;2.7
+Intel Core i7-1165G7;Intel;Tiger Lake UP3;Tiger Lake;252;5;28;2800;4;10;x86;756;Iris Xe G7 96EUs;8645;7.21;5.7
+AMD Ryzen 9 6900HS;AMD;Rembrandt H (Zen 3+);Rembrandt (Zen 3+);859;4;35;3300;8;6;x86;266;Radeon 680M;6403;7.4;11.9
+AMD Ryzen 7 5800U;AMD;Cezanne U (Zen 3);Cezanne (Zen 3, Ryzen 5000);395;4;25;1900;8;7;x86;628;Vega 8;6039;9.83;NA
+Intel Core i5-2400;Intel;Sandy Bridge;Core i5 (Desktop);81;1;95;3100;4;32;x86;4285;HD Graphics 2000;4425;11.1;2.4
+Intel Core i7-10750H;Intel;Comet Lake-H;Comet Lake;340;1.5;45;2600;6;14;x86;908;UHD Graphics 630;7376.5;8.3;7.6
+AMD Ryzen 5 1400;AMD;Zen;Ryzen 5;137;2;65;3200;4;14;x86;1995;newitem;4204.5;13.88;4.1
+Intel Core i7-3820QM;Intel;Ivy Bridge;Core i7;143;1;45;2700;4;22;x86;3809;HD Graphics 4000;5008;10;3.5
+Intel Core i9-9980XE;Intel;Sky Lake-X;Core i9 (Desktop);477;18;165;3000;18;14;x86;1367;newitem;7323;8.23;18.1
+Intel Core i7-3630QM;Intel;Ivy Bridge;Core i7;104;1;45;2400;4;22;x86;3649;HD Graphics 4000;NA;10.91;3.1
+AMD Ryzen 7 3800XT;AMD;Matisse (Zen 2);Matisse (Ryzen 3000 Desktop);398;4;105;3900;8;7;x86;812;newitem;6035;9.07;11.4
+Intel Xeon E5-2697 v2;Intel;Ivy Bridge-EP;Xeon (Desktop);386;3;130;2700;12;22;x86;3304;newitem;4173;12.86;8.7
+Intel Core i7-1195G7;Intel;Tiger Lake UP3;Tiger Lake;382;5;28;2900;4;10;x86;485;Iris Xe G7 96EUs;NA;6.75;6.4
+AMD Ryzen 9 3900;AMD;Matisse (Zen 2);Matisse (Ryzen 3000 Desktop);538;6;65;3100;12;7;x86;1084;newitem;5700;9.6;10.4
+Intel Core i7-10700K;Intel;Comet Lake-S;Comet Lake;358;2;125;3800;8;14;x86;880;UHD Graphics 630;7910;7.58;11.2
+Intel Core i5-7500T;Intel;Kaby Lake;Kaby Lake;134;1;35;2700;4;14;x86;2093;HD Graphics 630;5002;11.99;2.7
+Intel Core i5-8600K;Intel;Coffee Lake-S;Coffee Lake;224;1.5;95;3600;6;14;x86;2091;UHD Graphics 630;6875;8.76;5.4
+AMD Ryzen 5 PRO 5675U;AMD;Cezanne U (Zen 3);Cezanne (Zen 3, Ryzen 5000);189;3;25;2300;6;7;x86;628;Vega 7;NA;NA;NA
+Apple M1;Apple;;Apple M-Series;379;16;NA;2064;8;5;ARM;686;M1 8-Core GPU;NA;NA;NA
+Intel Xeon E5-2680 v4;Intel;Broadwell-EP;Xeon (Desktop);358;3.5;120;2400;14;14;x86;2392;newitem;3707;16.75;9.4
+Intel Core i5-1230U;Intel;Alder Lake-U;Alder Lake-M;76;9.5;9;700;10;10;x86;266;Iris Xe G7 80EUs;7290;7;NA
+Intel Core i7-7740X;Intel;Kaby Lake-X;Kaby Lake;244;1;112;4300;4;14;x86;1946;newitem;7396.5;8.1;5.6
+Intel Core i7-10870H;Intel;Comet Lake-H;Comet Lake;415;2;45;2200;8;14;x86;747;UHD Graphics 630;NA;NA;NA
+Intel Core i5-6440HQ;Intel;Skylake;Core i5;115;1;45;2600;4;14;x86;2583;HD Graphics 530;5157;10.66;2.6
+Intel Core i9-8950HK;Intel;Coffee Lake-H;Coffee Lake;364;1.5;45;2900;6;14;x86;1669;UHD Graphics 630;7149;8.41;7.2
+Intel Core i7-6700K;Intel;Skylake;Core i7 (Desktop);105;1;91;4000;4;14;x86;2610;HD Graphics 530;6531;9;4.35
+Intel Core i9-9900T;Intel;Coffee Lake-R;Coffee Lake;351;2;35;2100;8;14;x86;1450;UHD Graphics 630;6758;8.77;4.6
+Intel Xeon E3-1535M v5;Intel;Skylake;Xeon;106;1;45;2900;4;14;x86;2583;HD Graphics P530;5772.5;9;4
+Intel Core i5-10600K;Intel;Comet Lake-S;Comet Lake;391;1.5;125;4100;6;14;x86;860;UHD Graphics 630;7343;7.8;8
+Intel Core i9-11980HK;Intel;Tiger Lake H45;Tiger Lake;621;10;45;2600;8;10;x86;504;UHD Graphics Xe 32EUs (Tiger Lake-H);9626;6.82;NA
+Intel Core i5-8250U;Intel;Kaby Lake Refresh;Kaby Lake Refresh;160;1;15;1600;4;14;x86;1863;UHD Graphics 620;55332;11.06;3.5
+AMD Ryzen 7 3750H;AMD;Zen+;Picasso (Ryzen 3000 APU);125;2;35;2300;4;12;x86;1360;Vega 10;4770;10.95;5
+AMD Ryzen 5 PRO 6650U;AMD;Rembrandt U (Zen 3+);Rembrandt (Zen 3+);251;3;28;2900;6;6;x86;160;Radeon 660M;6062;7.94;5.5
+AMD Ryzen 5 4680U;AMD;Renoir (Zen 2);Renoir (Ryzen 4000 APU);119;3;15;2200;6;7;x86;532;Vega 7;5301;10.5;8.3
+AMD Ryzen 3 2200G;AMD;Zen;Raven Ridge (Ryzen 2000 APU);78;2;65;3500;4;14;x86;1724;Vega 8;4625;11.7;3.1
+Intel Xeon E3-1505M v5;Intel;Skylake;Xeon;88;1;45;2800;4;14;x86;2583;HD Graphics P530;5560;10.03;3.95
+Intel Core i7-8086K;Intel;Coffee Lake-S;Coffee Lake;365;1.5;95;3700;6;14;x86;1579;UHD Graphics 630;7216;8.5;7.85
+Intel Core i7-4790T;Intel;Haswell;Core i7 (Desktop);94;1;45;2700;4;22;x86;3071;HD Graphics 4600;5691;9.73;NA
+Intel Core i9-10900K;Intel;Comet Lake-S;Comet Lake;409;2.5;125;3700;10;14;x86;860;UHD Graphics 630;8127;7.2;14.6
+Intel Core i3-1000NG4;Intel;Ice Lake Y;Ice Lake;65;1;9;1100;2;10;x86;921;Iris Plus Graphics G4 (Ice Lake 48 EU);5771;10.64;NA
+Intel Core i7-8700K;Intel;Coffee Lake-S;Coffee Lake;410;1.5;95;3700;6;14;x86;2091;UHD Graphics 630;7328;8.02;8
+Intel Core i7-8705G;Intel;Kaby Lake-G;Core i7;149;1;65;3100;4;14;x86;1724;Vega M GL / 870;6436;9.25;4.6
+Intel Core i9-9880H;Intel;Coffee Lake-H;Coffee Lake;360;2;45;2300;8;14;x86;1246;UHD Graphics 630;6967;8.52;7.5
+Intel Core i5-6400T;Intel;Skylake;Core i5 (Desktop);76;1;35;2200;4;14;x86;2610;HD Graphics 530;4397;13;2.2
+Intel Core i7-8709G;Intel;Kaby Lake-G;Core i7;126;1;100;3100;4;14;x86;1721;Vega M GH;NA;NA;NA
+AMD Ryzen 5 PRO 3500U;AMD;Zen+;Picasso (Ryzen 3000 APU);107;2;15;2100;4;12;x86;1268;Vega 8;NA;NA;NA
+Intel Core i7-2700K;Intel;Sandy Bridge;Core i7 (Desktop);101;1;95;3500;4;32;x86;3968;HD Graphics 3000;4967;9.84;3.5
+Intel Core i9-9900K;Intel;Coffee Lake-R;Coffee Lake;359;2;95;3600;8;14;x86;1450;UHD Graphics 630;7933;7.66;11.1
+AMD Ryzen 5 3500U;AMD;Zen+;Picasso (Ryzen 3000 APU);74;2;15;2100;4;12;x86;1360;Vega 8;4557.5;12;4.4
+Intel Core i5-1035G1;Intel;Ice Lake U;Ice Lake;141;2;15;1000;4;10;x86;1217;UHD Graphics G1 (Ice Lake 32 EU);6869.5;25.5;4.2
+Intel Core i9-10980HK;Intel;Comet Lake-H;Comet Lake;397;2;45;2400;8;14;x86;908;UHD Graphics 630;NA;7.8;10.1
+AMD Ryzen 5 3450U;AMD;Zen+;Picasso (Ryzen 3000 APU);107;2;15;2100;4;12;x86;879;Vega 8;NA;NA;NA
+Intel Core i7-12700K;Intel;Alder Lake;Alder Lake-S;499;12;125;3600;12;10;x86;326;UHD Graphics 770;9305;7.35;15.7
+AMD Ryzen 3 PRO 3300U;AMD;Zen+;Picasso (Ryzen 3000 APU);86;2;15;2100;4;12;x86;1268;Vega 6;NA;NA;NA
+Intel Core i7-4760HQ;Intel;Haswell;Core i7;92;1;47;2100;4;22;x86;3088;Iris Pro Graphics 5200;NA;NA;NA
+Intel Core i5-9400F;Intel;Coffee Lake-R;Coffee Lake;139;1.5;65;2900;6;14;x86;1359;newitem;6490;9.3;5.2
+Intel Core i7-4800MQ;Intel;Haswell;Core i7;142;1;47;2700;4;22;x86;3405;HD Graphics 4600;5233;10;4.05
+AMD Ryzen 7 3700U;AMD;Zen+;Picasso (Ryzen 3000 APU);138;2;15;2300;4;12;x86;1360;Vega 10;4410.5;12.58;3.8
+Intel Core i7-12700H;Intel;Alder Lake-P;Alder Lake-S;555;12;45;1700;14;10;x86;266;Iris Xe G7 96EUs;8916;NA;NA
+AMD Ryzen 7 6800H;AMD;Rembrandt H (Zen 3+);Rembrandt (Zen 3+);528;4;45;3200;8;6;x86;266;Radeon 680M;NA;NA;NA
+Intel Core i9-12900K;Intel;Alder Lake;Alder Lake-S;799;14;125;3200;16;10;x86;326;UHD Graphics 770;9859;7.05;19.25
+Intel Core i7-4702HQ;Intel;Haswell;Core i7;133;1;37;2200;4;22;x86;3402;HD Graphics 4600;4585;NA;NA
+AMD Ryzen 3 3300X;AMD;Matisse (Zen 2);Matisse (Ryzen 3000 Desktop);128;2;65;3800;4;7;x86;873;newitem;5856;9.51;5.9
+AMD Ryzen 5 4600H;AMD;Renoir (Zen 2);Renoir (Ryzen 4000 APU);376;3;45;3000;6;7;x86;994;Vega 6;5365;10.5;5
+Intel Core i7-2820QM;Intel;Sandy Bridge;Core i7;94;1;45;2300;4;32;x86;4285;HD Graphics 3000;4249.5;11;NA
+Intel Core i3-1115G4;Intel;Tiger Lake UP3;Tiger Lake;129;2.5;28;3000;2;10;x86;756;UHD Graphics Xe G4 48EUs;8018;8.24;2.8
+Intel Core i7-10810U;Intel;Comet Lake-U;Comet Lake;188;1;15;1100;6;14;x86;867;UHD Graphics 620;7197;7.8;5.5
+Intel Core i7-4700HQ;Intel;Haswell;Core i7;131;1;47;2400;4;22;x86;3405;HD Graphics 4600;4895;10.82;3.75
+Intel Core i5-3570K;Intel;Ivy Bridge;Core i5 (Desktop);92;1;77;3400;4;22;x86;3824;HD Graphics 4000;5286;9.7;2.8
+AMD Ryzen 5 3580U;AMD;Zen+;Picasso (Ryzen 3000 APU);76;2;15;2100;4;12;x86;1360;Vega 9;4525;12.04;3.5
+Intel Xeon E-2176M;Intel;Coffee Lake-H;Coffee Lake;312;1.5;45;2700;6;14;x86;1671;UHD Graphics 630;6973;8.6;6.85
+AMD Ryzen 7 4700U;AMD;Renoir (Zen 2);Renoir (Ryzen 4000 APU);213;4;15;2000;8;7;x86;994;Vega 7;5524;10.01;5.25
+Intel Core i5-6400;Intel;Skylake;Core i5 (Desktop);82;1;65;2700;4;14;x86;2610;HD Graphics 530;5088;11.97;2.7
+Intel Core i7-6700;Intel;Skylake;Core i7 (Desktop);77;1;65;3400;4;14;x86;2610;HD Graphics 530;6002.5;9.65;4.45
+Intel Core i5-1240P;Intel;Alder Lake-P;Alder Lake-P;395;10;28;1200;12;10;x86;266;Iris Xe G7 80EUs;8205;8.3;6.6
+AMD Ryzen 5 PRO 2500U;AMD;Zen;Raven Ridge (Ryzen 2000 APU);96;2;15;2000;4;14;x86;1721;Vega 8;4349;12.7;3.4
+AMD Ryzen 7 4800HS;AMD;Renoir (Zen 2);Renoir (Ryzen 4000 APU);405;4;35;2900;8;7;x86;994;Vega 7;5705;9.72;10.3
+AMD Ryzen 7 3700X;AMD;Matisse (Zen 2);Matisse (Ryzen 3000 Desktop);381;4;65;3600;8;7;x86;1178;newitem;5839;9.45;11.4
+AMD Turion II P540;AMD;Champlain;Turion II;54;2;25;2400;2;45;x86;4521;newitem;2160;31.5;NA
+AMD Ryzen 9 4900H;AMD;Renoir (Zen 2);Renoir (Ryzen 4000 APU);409;4;45;3300;8;7;x86;934;Vega 8;5946;9.46;7.4
+AMD Ryzen 5 PRO 5650U;AMD;Cezanne U (Zen 3);Cezanne (Zen 3, Ryzen 5000);201;3;25;2300;6;7;x86;628;Vega 7;2.24;8.61;7.9
+Intel Xeon X5670;Intel;Westmere-EP;Xeon (Desktop);130;1.5;95;2933;6;32;x86;4583;newitem;3698;12;NA
+Intel Core i7-4810MQ;Intel;Haswell;Core i7;138;1;47;2800;4;22;x86;3173;HD Graphics 4600;5445;10.93;3.7
+Intel Core i7-4950HQ;Intel;Haswell;Core i7;79;1;47;2400;4;22;x86;3405;Iris Pro Graphics 5200;NA;NA;NA
+Intel Core i7-1270P;Intel;Alder Lake-P;Alder Lake-P;365;10;28;1600;12;10;x86;266;Iris Xe G7 96EUs;7886;7.64;5.8
+Intel Core i5-7267U;Intel;Kaby Lake;Kaby Lake;87;0.5;28;3100;2;14;x86;2093;Iris Plus Graphics 650;5010;12.1;1.9
+AMD Ryzen 7 PRO 6850H;AMD;Rembrandt H (Zen 3+);Rembrandt (Zen 3+);477;4;45;3200;8;6;x86;160;Radeon 680M;5791;0.94;9.1
+Intel Core i5-1135G7;Intel;Tiger Lake UP3;Tiger Lake;146;5;28;2400;4;10;x86;756;Iris Xe G7 80EUs;8116;8.08;5.2
+Intel Core i7-7600U;Intel;Kaby Lake;Kaby Lake;136;0.5;15;2800;2;14;x86;2093;HD Graphics 620;6253;9.8;2.4
+AMD Ryzen 7 PRO 3700U;AMD;Zen+;Picasso (Ryzen 3000 APU);106;2;15;2300;4;12;x86;1268;Vega 10;NA;NA;NA
+Intel Core i7-1160G7;Intel;Tiger Lake UP4;Tiger Lake;94;5;15;2100;4;10;x86;755;Iris Xe G7 96EUs;8212;8.08;4.9
+Intel Core i7-2720QM;Intel;Sandy Bridge;Core i7;50;1;45;2200;4;32;x86;4282;HD Graphics 3000;4167;11;NA
+Intel Core i7-1260P;Intel;Alder Lake-P;Alder Lake-P;289;10;28;1500;12;10;x86;266;Iris Xe G7 96EUs;8793;7.8;11.6
+Intel Core i5-1145G7;Intel;Tiger Lake UP3;Tiger Lake;115;5;28;2600;4;10;x86;756;Iris Xe G7 80EUs;8324;7.2;5.6
+Intel Core i7-7820HQ;Intel;Kaby Lake;Kaby Lake;135;1;45;2900;4;14;x86;2093;HD Graphics 630;6118;9.56;4.2
+Intel Xeon W-10885M;Intel;Comet Lake-H;Comet Lake;359;2;45;2400;8;14;x86;867;UHD Graphics P630;7865;7.74;10.3
+Intel Core i7-9850H;Intel;Coffee Lake-H;Coffee Lake;312;1.5;45;2600;6;14;x86;1246;UHD Graphics 630;7169;8.15;7.4
+AMD Ryzen 5 4600U;AMD;Renoir (Zen 2);Renoir (Ryzen 4000 APU);101;3;15;2100;6;7;x86;994;Vega 6;NA;NA;NA
+AMD Ryzen 9 5900HS;AMD;Cezanne H (Zen 3);Cezanne (Zen 3, Ryzen 5000);393;4;35;3300;8;7;x86;628;Vega 8;6380;NA;NA
+AMD Ryzen Threadripper 2970WX;AMD;ZEN;Threadripper;577;12;250;3000;24;12;x86;1429;newitem;5241;10.24;12.2
+Intel Core i5-6300HQ;Intel;Skylake;Core i5;142;1;45;2300;4;14;x86;2583;HD Graphics 530;4851;11.72;2.45
+AMD Ryzen 7 4980U;AMD;Renoir (Zen 2);Renoir (Ryzen 4000 APU);394;4;15;2000;8;7;x86;532;Vega 8;5715;9.6;NA
+Intel Xeon E3-1230 v3;Intel;Haswell;Xeon (Desktop);125;1;80;3300;4;22;x86;3405;newitem;5506;NA;NA
+Intel Core Duo L2300;Intel;Yonah;Core Duo;18;2;15;1500;2;65;x86;6109;newitem;NA;39.4;NA
+AMD Ryzen 5 4500U;AMD;Renoir (Zen 2);Renoir (Ryzen 4000 APU);76;3;15;2300;6;7;x86;994;Vega 6;5337;10.25;4.9
+Intel Core i7-950;Intel;Bloomfield;Core i7 (Desktop);82;1;130;3060;4;45;x86;4866;newitem;3652;12.4;NA
+AMD Ryzen 7 5700U;AMD;Lucienne U (Zen 2);Lucienne (Zen 2, Ryzen 5000);398;4;25;1800;8;7;x86;628;Vega 8;5780;24.58;9.2
+AMD Ryzen 9 PRO 6950HS;AMD;Rembrandt H (Zen 3+);Rembrandt (Zen 3+);479;4;35;3300;8;6;x86;160;Radeon 680M;6266;7.2;11.7
+Intel Core i9-9900KS;Intel;Coffee Lake-R;Coffee Lake;380;2;127;4000;8;14;x86;1063;UHD Graphics 630;8183;7.42;12.15
+Intel Core i7-7700K;Intel;Kaby Lake;Kaby Lake;247;1;91;4200;4;14;x86;2093;HD Graphics 630;7304.5;8.17;5.45
+Intel Core i5-9600K;Intel;Coffee Lake-R;Coffee Lake;409;1.5;95;3700;6;14;x86;1450;UHD Graphics 630;7205;7.74;5.6
+Intel Core i7-10850H;Intel;Comet Lake-H;Comet Lake;310;1.5;45;2700;6;14;x86;908;UHD Graphics 630;7653;7.7;7.8
+Intel Core i3-3229Y;Intel;Ivy Bridge;Core i3;53;0.5;13;1400;2;22;x86;3556;HD Graphics 4000;1869.5;24;0.12
+AMD Ryzen 5 5600H;AMD;Cezanne H (Zen 3);Cezanne (Zen 3, Ryzen 5000);402;3;45;3300;6;7;x86;628;Vega 7;5847;7.2;5.3
+Intel Core i7-7567U;Intel;Kaby Lake;Kaby Lake;95;0.5;28;3500;2;14;x86;2093;Iris Plus Graphics 650;NA;NA;NA
+Intel Core i5-1030NG7;Intel;Ice Lake Y;Ice Lake;100;2;10;1100;4;10;x86;921;Iris Plus Graphics G7 (Ice Lake 64 EU);4250;11.4;3.1
+Intel Core i3-8130U;Intel;Kaby Lake Refresh;Kaby Lake Refresh;55;1;15;2200;2;14;x86;1685;UHD Graphics 620;5447.5;11.09;2
+Intel Core i3-8109U;Intel;Coffee Lake-U;Coffee Lake;127;0.5;28;3000;2;14;x86;1638;Iris Plus Graphics 655;NA;NA;NA
+AMD FX-8350;AMD;Vishera;FX-Series (Desktop);130;8;125;4000;8;32;x86;3626;newitem;3201;21.6;3.6
+Intel Core i7-9750H;Intel;Coffee Lake-H;Coffee Lake;338;NA;45;2600;6;14;x86;1246;UHD Graphics 630;6970;8.35;7.35
+Intel Core i7-7560U;Intel;Kaby Lake;Kaby Lake;157;0.5;15;2400;2;14;x86;2093;Iris Plus Graphics 640;NA;NA;NA
+AMD Ryzen 7 3780U;AMD;Zen+;Picasso (Ryzen 3000 APU);88;2;15;2300;4;12;x86;1360;Vega 11;NA;NA;NA
+Intel Core i7-5775C;Intel;Broadwell;Core i7 (Desktop);92;1;65;3300;4;14;x86;2674;Iris Pro Graphics 6200;5844;10.31;4.4
+AMD Ryzen 7 PRO 5750G;AMD;Cezanne;Cezanne (Zen 3, Ryzen 5000);580;4;65;3800;8;7;x86;483;Vega 8;6432;7.7;11.1
+Intel Core i9-11950H;Intel;Tiger Lake H45;Tiger Lake;409;10;45;2600;8;10;x86;504;UHD Graphics Xe 32EUs (Tiger Lake-H);NA;NA;NA
+Intel Core i7-11390H;Intel;Tiger Lake H35 Refresh;Tiger Lake;278;5;35;3400;4;10;x86;391;Iris Xe G7 96EUs;NA;6.7;6.7
+Intel Core i7-8650U;Intel;Kaby Lake Refresh;Kaby Lake Refresh;118;1;15;1900;4;14;x86;1863;UHD Graphics 620;6629;8.84;4.3
+Intel Core i5-10400H;Intel;Comet Lake-H;Comet Lake;126;1;45;2600;4;14;x86;908;UHD Graphics 630;7403;8.14;5.3
+Intel Core i7-6700HQ;Intel;Skylake;Core i7;108;1;45;2600;4;14;x86;2583;HD Graphics 530;54199;10.95;3.88
+AMD Ryzen 9 6900HX;AMD;Rembrandt H (Zen 3+);Rembrandt (Zen 3+);480;4;45;3300;8;6;x86;266;Radeon 680M;6467;NA;NA
+Intel Core i7-6950X;Intel;Broadwell-E;Core i7 (Desktop);408;2.5;120;3000;10;14;x86;2392;newitem;6231;15;10.5
+Intel Core i7-3960X;Intel;Sandy Bridge-E;Core i7 (Desktop);80;1.5;130;3300;6;32;x86;3970;newitem;5013.5;9.7;5.2
+Intel Core i7-9700;Intel;Coffee Lake-R;Coffee Lake;391;2;65;3000;8;14;x86;1253;UHD Graphics 630;7473;8.31;7.6
+Intel Core i3-10100;Intel;Comet Lake-S;Comet Lake;113;1;65;3600;4;14;x86;880;newitem;6863;8.93;5
+Intel Core i7-1265U;Intel;Alder Lake-U;Alder Lake-M;293;9.5;15;1300;10;10;x86;266;Iris Xe G7 96EUs;NA;NA;NA
+Intel Core i5-12600K;Intel;Alder Lake;Alder Lake-S;661;9.5;125;3700;10;10;x86;326;UHD Graphics 770;9381;7.41;12.8
+Intel Core i5-11400T;Intel;Rocket Lake-S;Rocket Lake;81;3;35;1300;6;14;x86;560;UHD Graphics 730;6122;10.09;4.2
+Intel Core i7-3632QM;Intel;Ivy Bridge;Core i7;127;1;35;2200;4;22;x86;3649;HD Graphics 4000;4293.5;11.86;2.9
+Intel Core i7-4850HQ;Intel;Haswell;Core i7;99;1;47;2300;4;22;x86;3405;Iris Pro Graphics 5200;6640;NA;NA
+Intel Core i7-8665U;Intel;Whiskey Lake-U;Core i7;128;1;15;1900;4;14;x86;1260;UHD Graphics 620;6872;8;2.6
+AMD Ryzen 5 2600X;AMD;Zen+;Ryzen 5;177;4;95;3600;6;12;x86;1629;newitem;4958;11.35;8
+AMD Ryzen 9 4900HS;AMD;Renoir (Zen 2);Renoir (Ryzen 4000 APU);395;4;35;3000;8;7;x86;934;Vega 8;5866;9.5;11.2
+Intel Core i7-940;Intel;Bloomfield;Core i7 (Desktop);61;1;130;2930;4;45;x86;5170;newitem;3550;13.19;NA
+Intel Core i9-11900H;Intel;Tiger Lake H45;Tiger Lake;502;10;45;2500;8;10;x86;504;UHD Graphics Xe 32EUs (Tiger Lake-H);NA;NA;NA
+Intel Core i3-10320;Intel;Comet Lake-S;Comet Lake;119;1;65;3800;4;14;x86;860;UHD Graphics 630;7164;9.73;5.3
+AMD Ryzen 9 5900HX;AMD;Cezanne H (Zen 3);Cezanne (Zen 3, Ryzen 5000);655;4;45;3300;8;7;x86;628;Vega 8;6321;8.63;9.1
+Intel Core i5-6500;Intel;Skylake;Core i5 (Desktop);71;1;65;3200;4;14;x86;2610;HD Graphics 530;5746;10.4;2.9
+Intel Core i5-11600K;Intel;Rocket Lake-S;Rocket Lake;376;3;125;3900;6;14;x86;546;UHD Graphics Xe 750 32EUs;9745;6.76;9.7
+Intel Core i5-8300H;Intel;Coffee Lake-H;Coffee Lake;152;1;45;2300;4;14;x86;1669;UHD Graphics 630;6463.5;9.36;3.9
+AMD Ryzen 5 1500X;AMD;Zen;Ryzen 5;112;2;65;3500;4;14;x86;1995;newitem;4573;10.95;4.9
+AMD Ryzen 7 2700U;AMD;Zen;Raven Ridge (Ryzen 2000 APU);96;2;15;2200;4;14;x86;1721;Vega 10;4515;11.8;NA
+Intel Core i7-7700HQ;Intel;Kaby Lake;Kaby Lake;111;1;45;2800;4;14;x86;2093;HD Graphics 630;59109;101;4.17
+AMD Ryzen 5 6600U;AMD;Rembrandt U (Zen 3+);Rembrandt (Zen 3+);194;3;28;2900;6;6;x86;266;Radeon 660M;NA;NA;NA
+Intel Core i9-12900HX;Intel;Alder Lake-HX;Alder Lake-S;799;14;55;1700;16;10;x86;140;UHD Graphics 770;9509;7.25;17.4
+AMD Ryzen 9 5980HS;AMD;Cezanne H (Zen 3);Cezanne (Zen 3, Ryzen 5000);668;4;35;3300;8;7;x86;628;Vega 8;NA;NA;NA
+Intel Core i5-7360U;Intel;Kaby Lake;Kaby Lake;86;0.5;15;2300;2;14;x86;2093;Iris Plus Graphics 640;5787;10;2.2
+Intel Core i7-3720QM;Intel;Ivy Bridge;Core i7;106;1;45;2600;4;22;x86;3809;HD Graphics 4000;4821;10.24;3.3
+Intel Xeon E3-1280 v5;Intel;Skylake;Xeon (Desktop);120;1;80;3700;4;14;x86;2610;newitem;NA;9;4.5
+Intel Core i9-10910;Intel;Comet Lake-S;Comet Lake;605;2.5;125;3600;10;14;x86;860;UHD Graphics 630;8131;7.6;NA
+Intel Core i7-1065G7;Intel;Ice Lake U;Ice Lake;123;2;15;1300;4;10;x86;1217;Iris Plus Graphics G7 (Ice Lake 64 EU);7270.5;11.68;5
+Intel Celeron Dual-Core T3000;Intel;Penryn-1M;Celeron Dual-Core;31;1;35;1800;2;45;x86;4897;newitem;1797;31.75;NA
+Intel Core i7-6920HQ;Intel;Skylake;Core i7;107;1;45;2900;4;14;x86;2583;HD Graphics 530;5906;10.17;4.2
+AMD Ryzen 5 5600X;AMD;Vermeer (Zen3);Vermeer (Ryzen 5000);401;3;65;3700;6;7;x86;719;newitem;6462;8.08;10.7
+Intel Core i5-7260U;Intel;Kaby Lake;Kaby Lake;68;0.5;15;2200;2;14;x86;2093;Iris Plus Graphics 640;NA;NA;NA
+Intel Core i7-6567U;Intel;Skylake;Core i7;64;0.5;28;3300;2;14;x86;2583;Iris Graphics 550;5549;10.99;1.9
+Intel Core i7-8550U;Intel;Kaby Lake Refresh;Kaby Lake Refresh;150;1;15;1800;4;14;x86;1863;UHD Graphics 620;64230;9.28;4.3
+Intel Core i9-12900HK;Intel;Alder Lake-P;Alder Lake-P;600;12;45;1800;14;10;x86;266;Iris Xe G7 96EUs;9412;7.3;16.3
+Intel Core i7-4720HQ;Intel;Haswell;Core i7;91;1;47;2600;4;22;x86;2826;HD Graphics 4600;51451;10.33;3.9
+Intel Core i7-10710U;Intel;Comet Lake-U;Comet Lake;228;1;15;1100;6;14;x86;1122;UHD Graphics 620;6972;8.19;6.4
+AMD Ryzen 5 2500U;AMD;Zen;Raven Ridge (Ryzen 2000 APU);89;2;15;2000;4;14;x86;1721;Vega 8;4410.5;12.29;3.3
+AMD Ryzen 3 3100;AMD;Matisse (Zen 2);Matisse (Ryzen 3000 Desktop);102;2;65;3600;4;7;x86;873;newitem;5181;10.64;5.4
+AMD Ryzen 5 7600X;AMD;Raphael (Zen4);Raphael (Zen 4, Ryzen 7000);613;6;105;4700;6;5;x86;1;newitem;8631;7.42;13.2
+Intel Core i5-11320H;Intel;Tiger Lake H35 Refresh;Tiger Lake;106;5;35;3200;4;10;x86;391;Iris Xe G7 96EUs;8767;7.51;6.1
+Intel Core i9-10980XE;Intel;Cascade Lake;Core i9 (Desktop);678;18;165;3000;18;14;x86;1091;newitem;7847;7.68;18.2
+Intel Core i7-3920XM;Intel;Ivy Bridge;Core i7;114;1;55;2900;4;22;x86;3809;HD Graphics 4000;5078;9;3.55
+Intel Core i5-10310U;Intel;Comet Lake-U;Comet Lake;95;1;15;1700;4;14;x86;867;UHD Graphics 620;NA;NA;NA
+Intel Core i9-10850K;Intel;Comet Lake-S;Comet Lake;560;2.5;125;3600;10;14;x86;761;UHD Graphics 630;6829;7.59;14.5
+Intel Core i5-2500K;Intel;Sandy Bridge;Core i5 (Desktop);137;1;95;3300;4;32;x86;4285;HD Graphics 3000;4773;10.8;NA
+Intel Core i9-10885H;Intel;Comet Lake-H;Comet Lake;417;2;45;2400;8;14;x86;908;UHD Graphics 630;NA;7.33;9.9
+AMD Ryzen 3 2300U;AMD;Zen;Raven Ridge (Ryzen 2000 APU);76;2;15;2000;4;14;x86;1724;Vega 6;NA;NA;NA
+Intel Core i7-4770HQ;Intel;Haswell;Core i7;92;1;47;2200;4;22;x86;2990;Iris Pro Graphics 5200;NA;NA;NA
+Intel Core i5-6600K;Intel;Skylake;Core i5 (Desktop);153;1;91;3500;4;14;x86;2610;HD Graphics 530;6188;9.5;3.2
+Intel Core i5-3470;Intel;Ivy Bridge;Core i5 (Desktop);157;1;77;3200;4;22;x86;3824;HD Graphics 2500;5006;NA;NA
+Intel Core i7-1280P;Intel;Alder Lake-P;Alder Lake-P;360;12;28;1300;14;10;x86;266;Iris Xe G7 96EUs;8881;7;11.8
+Intel Core i7-2860QM;Intel;Sandy Bridge;Core i7;113;1;45;2500;4;32;x86;4285;HD Graphics 3000;4576;10.29;2.7
+AMD Ryzen 5 6600H;AMD;Rembrandt H (Zen 3+);Rembrandt (Zen 3+);409;3;45;3300;6;6;x86;266;Radeon 660M;NA;NA;NA
+Intel Core i7-11370H;Intel;Tiger Lake H35;Tiger Lake;340;5;35;3300;4;10;x86;624;Iris Xe G7 96EUs;NA;NA;NA
+AMD Ryzen 7 5800X;AMD;Vermeer (Zen3);Vermeer (Ryzen 5000);409;4;105;3800;8;7;x86;719;newitem;6835;7.3;15
+Intel Core i5-1130G7;Intel;Tiger Lake UP4;Tiger Lake;85;5;15;1800;4;10;x86;755;Iris Xe G7 80EUs;7813;8.58;2.6
+Intel Core i7-10510U;Intel;Comet Lake-U;Comet Lake;97;1;15;1800;4;14;x86;1122;UHD Graphics 620;7268;NA;NA
+AMD Ryzen Threadripper 2950X;AMD;ZEN+;Threadripper;478;8;180;3500;16;12;x86;1506;newitem;NA;10.32;19.5
+AMD Ryzen 7 1700;AMD;Zen;Ryzen 7;240;4;65;3000;8;14;x86;2035;newitem;4419;11.75;7.2
+Intel Xeon E3-1535M v6;Intel;Kaby Lake;Kaby Lake;147;1;45;3100;4;14;x86;2093;HD Graphics P630;6426;8.92;4.7
+Intel Core i7-3840QM;Intel;Ivy Bridge;Core i7;126;1;45;2800;4;22;x86;3649;HD Graphics 4000;5144.5;9.35;3.6
+Intel Core i7-3615QM;Intel;Ivy Bridge;Core i7;91;1;45;2300;4;22;x86;3809;HD Graphics 4000;4436;11.1;3
+Intel Core i5-3550;Intel;Ivy Bridge;Core i5 (Desktop);127;1;77;3300;4;22;x86;3809;HD Graphics 2500;5191;9.99;2.7
+Intel Core i7-5700HQ;Intel;Broadwell;Core i7;135;1;47;2700;4;14;x86;2674;HD Graphics 5600;NA;10.95;4.2
+Intel Core i7-11850H;Intel;Tiger Lake H45;Tiger Lake;359;10;45;2500;8;10;x86;504;UHD Graphics Xe 32EUs (Tiger Lake-H);NA;NA;NA
+Intel Core i7-10700;Intel;Comet Lake-S;Comet Lake;393;2;65;2900;8;14;x86;847;UHD Graphics 630;7611;8.08;10.3
+AMD Ryzen 5 5500U;AMD;Lucienne U (Zen 2);Lucienne (Zen 2, Ryzen 5000);147;3;25;2100;6;7;x86;628;Vega 7;5313;10.46;4.3
+AMD Ryzen 9 7900X;AMD;Raphael (Zen4);Raphael (Zen 4, Ryzen 7000);669;12;170;4700;12;5;x86;1;newitem;8829;6.14;14.8
+Intel Core i5-9300H;Intel;Coffee Lake-H;Coffee Lake;129;1;45;2400;4;14;x86;1246;UHD Graphics 630;6572;9.1;4.7
+AMD Ryzen 7 4800H;AMD;Renoir (Zen 2);Renoir (Ryzen 4000 APU);416;4;45;2900;8;7;x86;994;Vega 7;5684;9.81;10.3
+Intel Core i7-6820HQ;Intel;Skylake;Core i7;72;1;45;2700;4;14;x86;2583;HD Graphics 530;5429;10.5;3.9
+Intel Core i7-1255U;Intel;Alder Lake-U;Alder Lake-M;162;9.5;15;1200;10;10;x86;266;Iris Xe G7 96EUs;NA;NA;NA
+Intel Core i7-7500U;Intel;Kaby Lake;Kaby Lake;63;0.5;15;2700;2;14;x86;2219;HD Graphics 620;56474;10.8;2.1
+Intel Core i7-8700;Intel;Coffee Lake-S;Coffee Lake;359;1.5;65;3200;6;14;x86;2091;UHD Graphics 630;7171;8.36;7.7
+Intel Core i7-4980HQ;Intel;Haswell;Core i7;116;1;47;2800;4;22;x86;2990;HD Graphics 4600;5737;9.27;4.5
+AMD Ryzen 7 PRO 5850U;AMD;Cezanne U (Zen 3);Cezanne (Zen 3, Ryzen 5000);367;4;25;1900;8;7;x86;628;Vega 8;5817;10;4.2
+AMD Ryzen 7 6800U;AMD;Rembrandt U (Zen 3+);Rembrandt (Zen 3+);372;4;28;2700;8;6;x86;266;Radeon 680M;NA;NA;NA
+Intel Core i5-10500H;Intel;Comet Lake-H;Comet Lake;350;0.135;45;2500;6;14;x86;908;UHD Graphics 630;7109;8.59;4.1
+Intel Core i7-12650H;Intel;Alder Lake-P;Alder Lake-P;373;9.5;45;1700;10;10;x86;266;UHD Graphics 64EUs;8903;7.83;11.8
+Intel Core i3-1005G1;Intel;Ice Lake U;Ice Lake;96;1;15;1200;2;10;x86;1217;UHD Graphics G1 (Ice Lake 32 EU);6573;10.02;2.4
+Intel Core i7-3612QM;Intel;Ivy Bridge;Core i7;70;1;35;2100;4;22;x86;3809;HD Graphics 4000;4112.5;12.26;2.7
+AMD Ryzen 9 3900X;AMD;Matisse (Zen 2);Matisse (Ryzen 3000 Desktop);514;6;105;3800;12;7;x86;1178;newitem;6018.5;9.14;10.75
+AMD Ryzen 7 1700X;AMD;Zen;Ryzen 7;278;4;95;3400;8;14;x86;2035;newitem;4662;10.83;8.95
+Intel Core i5-4430;Intel;Haswell;Core i5 (Desktop);81;1;84;3000;4;22;x86;3405;HD Graphics 4600;NA;NA;NA
+Intel Core i7-6770HQ;Intel;Skylake;Core i7;70;1;45;2600;4;14;x86;2438;Iris Pro Graphics 580;5536;10.64;3.9
+AMD Ryzen 7 2700;AMD;Zen+;Ryzen 7;399;4;65;3200;8;12;x86;1629;newitem;4505;11.08;9
+AMD Ryzen 5 2400G;AMD;Zen;Raven Ridge (Ryzen 2000 APU);146;2;65;3600;4;14;x86;1721;Vega 11;4805;11.27;5.2
+Intel Core i9-11900KB;Intel;Tiger Lake-H;Tiger Lake;512;10;65;3300;8;10;x86;470;UHD Graphics Xe 32EUs (Tiger Lake-H);9538;6.66;11.6
+AMD Ryzen 9 5900X;AMD;Vermeer (Zen3);Vermeer (Ryzen 5000);599;6;105;3700;12;7;x86;719;newitem;6828;7.19;21.2
+Intel Core i7-4712HQ;Intel;Haswell;Core i7;98;1;37;2300;4;22;x86;3088;HD Graphics 4600;4445;NA;3.4
+Intel Core i5-10400F;Intel;Comet Lake-S;Comet Lake;417;1.5;65;2900;6;14;x86;860;newitem;6719;8.74;NA
+Intel Core i5-7300U;Intel;Kaby Lake;Kaby Lake;65;0.5;15;2600;2;14;x86;2093;HD Graphics 620;5529;12.02;2.1
+AMD Ryzen 3 1200;AMD;Zen;Ryzen 3;77;2;65;3100;4;14;x86;1887;newitem;4178;12.39;2.6
+Intel Core i5-10210U;Intel;Comet Lake-U;Comet Lake;115;1;15;1600;4;14;x86;1122;UHD Graphics 620;6412;8.96;4.65
+Intel Core i7-2600K;Intel;Sandy Bridge;Core i7 (Desktop);74;1;95;3400;4;32;x86;4285;HD Graphics 3000;4809;10.2;3.3
+AMD Ryzen 3 5300U;AMD;Lucienne U (Zen 2);Lucienne (Zen 2, Ryzen 5000);70;2;25;2600;4;7;x86;628;Vega 6;NA;NA;NA
+Intel Core i5-8400;Intel;Coffee Lake-S;Coffee Lake;210;1.5;65;2800;6;14;x86;2091;UHD Graphics 630;6363.5;9.5;5
+Intel Core i7-2760QM;Intel;Sandy Bridge;Core i7;130;1;45;2400;4;32;x86;4042;HD Graphics 3000;4474;11;3
+Intel Core i5-11400H;Intel;Tiger Lake H45;Tiger Lake;274;7.5;45;2700;6;10;x86;504;UHD Graphics Xe 16EUs (Tiger Lake-H);8611;7.5;7.9
+Intel Core i5-4202Y;Intel;Haswell;Core i5;38;0.5;11.5;1600;2;22;x86;3313;HD Graphics 4200;2920;19.12;1
+Intel Xeon E5-2680;Intel;Sandy Bridge-EP;Xeon (Desktop);114;2;130;2700;8;32;x86;3857;newitem;4118;12;0.34
+Intel Core i9-12900H;Intel;Alder Lake-P;Alder Lake-P;642;12;45;1800;14;10;x86;266;Iris Xe G7 96EUs;9498;7.3;9.7
+AMD Ryzen 5 5600G;AMD;Cezanne;Cezanne (Zen 3, Ryzen 5000);401;3;65;3900;6;7;x86;532;Vega 7;6052;8.08;9.7
+AMD Ryzen 5 6600HS;AMD;Rembrandt H (Zen 3+);Rembrandt (Zen 3+);412;3;35;3300;6;6;x86;266;Radeon 660M;6157;8;7.7
+Intel Core i7-3770K;Intel;Ivy Bridge;Core i7 (Desktop);77;1;77;3500;4;22;x86;3824;HD Graphics 4000;5536;9.38;3.9
+Intel Core i3-10110U;Intel;Comet Lake-U;Comet Lake;155;1;15;2100;2;14;x86;1122;UHD Graphics 620;6349;9.43;2.05
+Intel Core i3-1110G4;Intel;Tiger Lake UP4;Tiger Lake;137;2.5;15;2500;2;10;x86;755;UHD Graphics Xe G4 48EUs;6972;9.39;2.4
+Apple M2;Apple;;Apple M-Series;406;20;20;2424;8;5;ARM;109;M2 10-Core GPU;NA;NA;NA
+Intel Core i5-7Y57;Intel;Kaby Lake;Kaby Lake;62;0.5;4.5;1200;2;14;x86;2094;HD Graphics 615;5132;11.58;1.8
+Intel Core i7-4790S;Intel;Haswell;Core i7 (Desktop);101;1;65;3200;4;22;x86;3071;HD Graphics 4600;5566;NA;NA
+Intel Xeon E3-1505M v6;Intel;Kaby Lake;Kaby Lake;116;1;45;3000;4;14;x86;2093;HD Graphics P630;6332;9.5;4.4
+Apple M1 Pro 8-Core;Apple;;Apple M-Series;464;28;37;NA;8;5;ARM;344;M1 Pro 14-Core GPU;NA;NA;NA
+Qualcomm Snapdragon 8cx;Qualcomm;Cortex-A76 / A55 (Kryo 495);Snapdragon;130;NA;7;2840;8;7;ARM;1391;Adreno 680;591;10.9;NA
+AMD Ryzen 3 1300X;AMD;Zen;Ryzen 3;142;2;65;3500;4;14;x86;1887;newitem;4676;10.97;3
+AMD Ryzen Embedded V1605B;AMD;Zen;Raven Ridge (Ryzen 2000 APU);151;2;15;2000;4;14;x86;1679;Vega 8;NA;NA;NA
+AMD Ryzen 7 5800X3D;AMD;Vermeer (Zen3);Vermeer (Ryzen 5000);671;4;105;3400;8;7;x86;147;newitem;6008;8.11;13.8
+AMD Ryzen 9 3950X;AMD;Matisse (Zen 2);Matisse (Ryzen 3000 Desktop);479;8;105;3500;16;7;x86;1048;newitem;6102;9.19;10.8
+Intel Core i5-9400H;Intel;Coffee Lake-H;Coffee Lake;80;1;45;2500;4;14;x86;1246;UHD Graphics 630;NA;NA;NA
+Intel Core i5-1140G7;Intel;Tiger Lake UP4;Tiger Lake;133;5;15;1800;4;10;x86;755;Iris Xe G7 80EUs;7771;8.32;3.1
+Intel Core i5-6600T;Intel;Skylake;Core i5 (Desktop);80;1;35;2700;4;14;x86;2610;HD Graphics 530;5354.5;16.5;2.85
+Intel Core i5-8305G;Intel;Kaby Lake-G;Core i5;81;1;65;2800;4;14;x86;1724;Vega M GL / 870;5844;10.81;4.1
+AMD Ryzen 9 5950X;AMD;Vermeer (Zen3);Vermeer (Ryzen 5000);479;8;105;3400;16;7;x86;719;newitem;6689.5;7.24;26
+Intel Core i5-7600K;Intel;Kaby Lake;Kaby Lake;149;1;91;3800;4;14;x86;2093;HD Graphics 630;6814;8.82;3.3
+Intel Core i7-7920HQ;Intel;Kaby Lake;Kaby Lake;89;1;45;3100;4;14;x86;2093;HD Graphics 630;6169;9.6;4.6
+Intel Core i5-8500T;Intel;Coffee Lake-S;Coffee Lake;129;1.5;35;2100;6;14;x86;1579;UHD Graphics 630;5493;10.71;3.4
+AMD Ryzen 7 4800U;AMD;Renoir (Zen 2);Renoir (Ryzen 4000 APU);365;4;15;1800;8;7;x86;994;Vega 8;5690;9.73;10.2
+Intel Core i7-3740QM;Intel;Ivy Bridge;Core i7;149;1;45;2700;4;22;x86;3649;HD Graphics 4000;4951;10.18;3.5
+AMD Ryzen Threadripper 2920X;AMD;ZEN+;Threadripper;641;6;180;3500;12;12;x86;1429;newitem;5407;10.24;16.2
+Intel Core i7-5960X;Intel;Haswell-E;Core i7 (Desktop);220;2;140;3000;8;22;x86;2948;newitem;5193;10.4;8.2
+Intel Core i7-7700T;Intel;Kaby Lake;Kaby Lake;88;1;35;2900;4;14;x86;2093;HD Graphics 630;6824;14.47;4.4
+Intel Core i7-975;Intel;Bloomfield;Core i7 (Desktop);148;1;130;3333;4;45;x86;4866;newitem;4101;12;NA
+Intel Core i3-2365M;Intel;Sandy Bridge;Core i3;28;0.5;17;1400;2;32;x86;4110;HD Graphics 3000;1826;27;0.13
+Intel Core i7-960;Intel;Bloomfield;Core i7 (Desktop);116;1;130;3200;4;45;x86;4866;newitem;3863;12;NA
+Intel Core i5-1035G4;Intel;Ice Lake U;Ice Lake;72;2;15;1100;4;10;x86;1217;Iris Plus Graphics G4 (Ice Lake 48 EU);6829;9.19;4.7
+Intel Core i7-4940MX;Intel;Haswell;Core i7;123;1;57;3100;4;22;x86;3173;HD Graphics 4600;5853;9.28;4.1
+Intel Core i7-4900MQ;Intel;Haswell;Core i7;117;1;47;2800;4;22;x86;3405;HD Graphics 4600;5470;9.76;3.95
+Intel Core i3-9100F;Intel;Coffee Lake-R;Coffee Lake;79;1;65;3600;4;14;x86;1253;newitem;6509;9.31;3
+AMD Ryzen 7 PRO 6850U;AMD;Rembrandt U (Zen 3+);Rembrandt (Zen 3+);412;4;28;2700;8;6;x86;160;Radeon 680M;6260;7.7;6.5
+Intel Core i7-7660U;Intel;Kaby Lake;Kaby Lake;98;0.5;15;2500;2;14;x86;2093;Iris Plus Graphics 640;6169.5;NA;2.4
+AMD Ryzen 7 5800H;AMD;Cezanne H (Zen 3);Cezanne (Zen 3, Ryzen 5000);371;4;45;3200;8;7;x86;628;Vega 8;5981;7.2;8.5
+Intel Core i7-8565U;Intel;Whiskey Lake-U;Core i7;132;1;15;1800;4;14;x86;1498;UHD Graphics 620;6644;NA;4
+Intel Core i7-12700F;Intel;Alder Lake;Alder Lake-S;676;12;65;3300;12;10;x86;266;newitem;9146;7.39;3.3
+Intel Xeon E-2176G;Intel;Coffee Lake-ER;Coffee Lake;366;1.5;80;3700;6;14;x86;1487;UHD Graphics P630;7369;8.31;8
+Intel Core i7-10610U;Intel;Comet Lake-U;Comet Lake;85;1;15;1800;4;14;x86;867;UHD Graphics 620;7163;7.78;5
+Intel Xeon W-2145;Intel;Skylake-W;Xeon;289;8;140;3700;8;14;x86;1855;newitem;NA;NA;NA
+Intel Core i7-4930MX;Intel;Haswell;Core i7;116;1;57;3000;4;22;x86;3405;HD Graphics 4600;5635;9.49;4
+Intel Core i7-12800HX;Intel;Alder Lake-HX;Alder Lake-S;700;14;55;1500;16;10;x86;140;UHD Graphics 770;NA;NA;NA
+AMD Ryzen 3 3300U;AMD;Zen+;Picasso (Ryzen 3000 APU);87;2;15;2100;4;12;x86;1360;Vega 6;4280;12.82;2.7
+Intel Core i7-7700;Intel;Kaby Lake;Kaby Lake;136;1;65;3600;4;14;x86;2093;HD Graphics 630;NA;10.24;NA
+AMD Ryzen 5 PRO 4650U;AMD;Renoir PRO (Zen 2);Renoir (Ryzen 4000 APU);79;3;15;2100;6;7;x86;873;Vega 6;5289;7.2;5.4
+Intel Core i5-8259U;Intel;Coffee Lake-U;Coffee Lake;152;1;28;2300;4;14;x86;1638;Iris Plus Graphics 655;NA;NA;NA
+Intel Xeon E3-1231 v3;Intel;Haswell;Xeon (Desktop);76;1;80;3400;4;22;x86;3101;newitem;5655;NA;NA
+AMD Ryzen Threadripper 1950X;AMD;ZEN;Threadripper;599;8;180;3400;16;14;x86;1874;newitem;4754;10.66;19
+Intel Core i7-8559U;Intel;Coffee Lake-U;Coffee Lake;105;1;28;2700;4;14;x86;1638;Iris Plus Graphics 655;7249;8.33;5
+Intel Core i7-6700T;Intel;Skylake;Core i7 (Desktop);99;1;35;2800;4;14;x86;2583;HD Graphics 530;5605;10;4
+Intel Core i7-2920XM;Intel;Sandy Bridge;Core i7;121;1;55;2500;4;32;x86;4282;HD Graphics 3000;4378.5;10;2.95
+Intel Core i7-4790K;Intel;Haswell;Core i7 (Desktop);77;1;88;4000;4;22;x86;3405;HD Graphics 4600;6520;7.7;5
+Intel Core i7-11800H;Intel;Tiger Lake H45;Tiger Lake;378;10;45;2300;8;10;x86;504;UHD Graphics Xe 32EUs (Tiger Lake-H);8987.5;7.29;10.75
+Intel Celeron J4105;Intel;Gemini Lake;Gemini Lake;66;4;10;1500;4;14;x86;1751;UHD Graphics 600;NA;NA;NA
+Intel Core i7-8750H;Intel;Coffee Lake-H;Coffee Lake;140;1.5;45;2200;6;14;x86;1669;UHD Graphics 630;64715;9.33;7
+Intel Core i5-4460;Intel;Haswell;Core i5 (Desktop);80;1;84;3200;4;22;x86;3040;HD Graphics 4600;4813;10.64;2.8
+Intel Core i5-11400F;Intel;Rocket Lake-S;Rocket Lake;416;3;65;2600;6;14;x86;496;newitem;6210;7.76;8.7
+Intel Core i9-7900X;Intel;Skylake-X;Core i9;374;10;140;3300;10;14;x86;1946;newitem;7287;8.11;12.1
+Intel Core i7-1180G7;Intel;Tiger Lake UP4;Tiger Lake;112;5;9;2200;4;10;x86;755;Iris Xe G7 96EUs;NA;NA;NA
+Intel Core i7-980X EE;Intel;Gulftown;Core i7 (Desktop);91;1.5;130;3333;6;32;x86;4583;newitem;NA;11.8;NA
+Intel Core i7-4770K;Intel;Haswell;Core i7 (Desktop);108;1;84;3500;4;22;x86;3405;HD Graphics 4600;5845;9.36;4.4
+Intel Core i7-4750HQ;Intel;Haswell;Core i7;95;1;47;2000;4;22;x86;3405;Iris Pro Graphics 5200;4723;11.5;3.6
+Intel Core i7-4910MQ;Intel;Haswell;Core i7;158;1;47;2900;4;22;x86;3173;HD Graphics 4600;5512;13;4.1
+Intel Core i7-4712MQ;Intel;Haswell;Core i7;140;1;37;2300;4;22;x86;3088;HD Graphics 4600;4816.5;11.11;NA
+AMD Ryzen 7 PRO 4750U;AMD;Renoir PRO (Zen 2);Renoir (Ryzen 4000 APU);373;4;15;1700;8;7;x86;873;Vega 7;8378.5;10.04;7.05
+Intel Core i7-12800H;Intel;Alder Lake-P;Alder Lake-P;457;12;45;1800;14;10;x86;266;Iris Xe G7 96EUs;NA;NA;NA
+Intel Xeon E3-1226 v3;Intel;Haswell;Xeon (Desktop);299;1;84;3300;4;22;x86;3101;newitem;5335;9;3
+Intel Core i5-1035G7;Intel;Ice Lake U;Ice Lake;150;2;15;1200;4;10;x86;1217;Iris Plus Graphics G7 (Ice Lake 64 EU);6449.5;9.17;4.7
+Intel Core i9-9980HK;Intel;Coffee Lake-H;Coffee Lake;416;2;45;2400;8;14;x86;1246;UHD Graphics 630;7969.5;7.75;10.2
+Intel Core i7-10875H;Intel;Comet Lake-H;Comet Lake;397;2;45;2300;8;14;x86;908;UHD Graphics 630;7803;7.7;10.3
+Intel Core i5-1155G7;Intel;Tiger Lake UP3;Tiger Lake;199;5;28;2500;4;10;x86;485;Iris Xe G7 80EUs;NA;NA;NA
+Apple M1 Pro;Apple;;Apple M-Series;486;28;37;2064;10;5;ARM;344;M1 Pro 16-Core GPU;NA;NA;NA
+Intel Core i5-11300H;Intel;Tiger Lake H35;Tiger Lake;107;5;35;3100;4;10;x86;624;Iris Xe G7 80EUs;8663;7.98;5.3
+Intel Core i5-8500;Intel;Coffee Lake-S;Coffee Lake;160;1.5;65;3000;6;14;x86;1639;UHD Graphics 630;8606;9.22;5
+Intel Core i5-8400H;Intel;Coffee Lake-H;Coffee Lake;154;1;45;2500;4;14;x86;1669;UHD Graphics 630;NA;NA;NA
+Intel Core i7-8706G;Intel;Kaby Lake-G;Core i7;117;1;65;3100;4;14;x86;1724;Vega M GL / 870;6549;9.48;2.4
+Intel Core i5-7300HQ;Intel;Kaby Lake;Kaby Lake;139;1;45;2500;4;14;x86;2093;HD Graphics 630;5434.5;NA;2.3
+Intel Core i5-1250P;Intel;Alder Lake-P;Alder Lake-P;261;10;28;1200;12;10;x86;266;Iris Xe G7 80EUs;7918;8.43;9.5
+Intel Core i7-3610QM;Intel;Ivy Bridge;Core i7;77;1;45;2300;4;22;x86;3809;HD Graphics 4000;44207;11.33;3.14
+Intel Core i7-3940XM;Intel;Ivy Bridge;Core i7;137;1;55;3000;4;22;x86;3649;HD Graphics 4000;5252;9;3.7
+Intel Core i3-8145U;Intel;Whiskey Lake-U;Core i3;61;1;15;2100;2;14;x86;1498;UHD Graphics 620;5939;10.52;2.2
+Intel Core i5-8265U;Intel;Whiskey Lake-U;Core i5;88;1;15;1600;4;14;x86;1498;UHD Graphics 620;6082;9.78;4.4
+AMD Ryzen 7 5700G;AMD;Cezanne;Cezanne (Zen 3, Ryzen 5000);667;4;65;3800;8;7;x86;532;Vega 8;6196;7.8;10.5
+Intel Core i7-4700MQ;Intel;Haswell;Core i7;132;1;47;2400;4;22;x86;3405;HD Graphics 4600;49345;NA;3.7
+Intel Core i7-4790;Intel;Haswell;Core i7 (Desktop);70;1;84;3600;4;22;x86;3101;HD Graphics 4600;5926;9.08;NA
+Apple M1 Max;Apple;;Apple M-Series;479;28;37;NA;10;5;ARM;344;M1 Max 32-Core GPU;NA;NA;NA
+Intel Core i7-4960X;Intel;Ivy Bridge-E;Core i7 (Desktop);71;1.5;130;3600;6;22;x86;3311;newitem;NA;9.26;NA
+Microsoft SQ1;Microsoft ;Cortex-A76 / A55 (Kryo 495);Snapdragon;117;NA;NA;3000;8;7;ARM;1091;Adreno 685;537;21.2;NA
+Intel Core i5-6500T;Intel;Skylake;Core i5 (Desktop);158;1;35;2500;4;14;x86;2610;HD Graphics 530;4880;12;2.5
+Intel Core i7-11700;Intel;Rocket Lake;Rocket Lake;669;4;65;2500;8;14;x86;315;newitem;9493;6.87;12
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+Intel Pentium 3825U;Intel;Broadwell;Pentium;38;0.5;15;1900;2;14;x86;2738;HD Graphics (Broadwell);2951;20.56;0.21
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+Qualcomm Snapdragon 850;Qualcomm;Cortex-A75 / A55 (Kryo 385);Snapdragon;68;1.5;NA;2750;8;10;ARM;1688;Adreno 630;1166;34;NA
+Intel Core i5-4210Y;Intel;Haswell;Core i5;63;0.5;11.5;1500;2;22;x86;3313;HD Graphics 4200;2764;19.37;1
+Intel Celeron 887;Intel;Sandy Bridge;Celeron;31;0.5;17;1500;2;32;x86;3648;HD Graphics (Sandy Bridge);1877;28;0.1
+Intel Pentium 2127U;Intel;Ivy Bridge;Pentium;53;0.5;17;1900;2;22;x86;3375;HD Graphics (Ivy Bridge);2625;20.38;0.15
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+Intel Core i5-4310M;Intel;Haswell;Core i5;52;0.5;37;2700;2;22;x86;3173;HD Graphics 4600;4664;11.38;2
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+Intel Core i7-2657M;Intel;Sandy Bridge;Core i7;64;0.5;17;1600;2;32;x86;4285;HD Graphics 3000;3491;14;NA
+Intel Pentium N4200;Intel;Apollo Lake;Pentium;40;2;6;1100;4;14;x86;2217;HD Graphics 505;1653;31.38;1.4
+Intel Core 2 Duo T7200;Intel;Merom;Core 2 Duo;37;4;34;2000;2;65;x86;5905;newitem;NA;25.5;NA
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+AMD A4-3300M;AMD;Llano;A-Series;33;2;35;1900;2;32;x86;4123;Radeon HD 6480G;1741.5;35.05;NA
+Intel Pentium P6000;Intel;Arrandale;Pentium;25;0.5;35;1860;2;32;x86;4562;newitem;2050.5;23.35;NA
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+Intel Core i3-380M;Intel;Arrandale;Core i3;55;0.5;35;2533;2;32;x86;4384;newitem;2808;17.25;NA
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+AMD Phenom II X4 P960;AMD;Champlain;Phenom II X4;41;2;25;1800;4;45;x86;4361;newitem;1542;45;NA
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+Intel Core i5-2540M;Intel;Sandy Bridge;Core i5;47;0.5;35;2600;2;32;x86;4237;HD Graphics 3000;4171;12;1.5
+Intel Core 2 Duo T5450;Intel;Merom-2048;Core 2 Duo;40;2;34;1660;2;65;x86;5628;newitem;1666;33.87;NA
+AMD Ryzen Embedded R1505G;AMD;Zen;Raven Ridge (Ryzen 2000 APU);57;2;10;2400;2;14;x86;1259;Vega 3;NA;NA;NA
+Intel Pentium N3540;Intel;Bay Trail-M;Pentium;29;2;7.5;2160;4;22;x86;3050;HD Graphics (Bay Trail);1363.5;32.69;0.29
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+AMD Turion II M520;AMD;Caspian;Turion II;39;1;35;2300;2;45;x86;4765;newitem;1955;35.15;NA
+Intel Core i5-7Y54;Intel;Kaby Lake;Kaby Lake;66;0.5;4.5;1200;2;14;x86;2219;HD Graphics 615;4392;12;1.4
+Intel Core 2 Duo T5670;Intel;Merom-2M;Core 2 Duo;22;2;35;1800;2;65;x86;5323;newitem;NA;NA;NA
+Intel Core 2 Duo SL9600;Intel;Penryn;Core 2 Duo;22;6;17;2130;2;45;x86;4958;newitem;2054;21;NA
+AMD E2-9000;AMD;Stoney Ridge;Bristol Ridge;16;1;10;1800;2;28;x86;2309;Radeon R2 (Stoney Ridge);1787;26.85;0.71
+Intel Core 2 Duo T6570;Intel;Penryn;Core 2 Duo;47;2;35;2100;2;45;x86;5017;newitem;2274;25.06;NA
+Intel Core i7-2630QM;Intel;Sandy Bridge;Core i7;73;1;45;2000;4;32;x86;4285;HD Graphics 3000;36626;134;NA
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+AMD A8-4555M;AMD;Trinity;A-Series;42;4;19;1600;4;32;x86;3648;Radeon HD 7600G;1555;41;0.81
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+Intel Core i7-2677M;Intel;Sandy Bridge;Core i7;68;0.5;17;1800;2;32;x86;4110;HD Graphics 3000;3614;13;NA
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+Intel Core 2 Duo SL9400;Intel;Penryn;Core 2 Duo;35;6;17;1860;2;45;x86;5151;newitem;2144;23;NA
+AMD A4 Micro-6400T;AMD;Mullins;A-Series;40;2;4.5;1000;4;28;x86;3073;Radeon R3 (Mullins/Beema);1251;40.53;0.72
+AMD Phenom II X3 P840;AMD;Champlain;Phenom II X3;24;1.5;25;1900;3;45;x86;4376;newitem;NA;40.4;NA
+Intel Core i5-3427U;Intel;Ivy Bridge;Core i5;69;0.5;17;1800;2;22;x86;3801;HD Graphics 4000;3722.5;14;1.3
+Intel Core i3-4012Y;Intel;Haswell;Core i3;64;0.5;11.5;1500;2;22;x86;3313;HD Graphics 4200;2173;24.94;0.91
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+Intel Atom Z3740D;Intel;Bay Trail-T;Atom;41;2;4;1330;4;22;x86;3303;HD Graphics (Bay Trail);963;45.61;0.7
+Intel Core 2 Duo SP7500;Intel;Merom;Core 2 Duo;12;4;20;1600;2;65;x86;5369;newitem;1766;36.9;NA
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+Intel Core i3-7100H;Intel;Kaby Lake;Kaby Lake;87;0.5;35;3000;2;14;x86;2093;HD Graphics 630;4870;12.6;1.8
+Intel Core i5-3360M;Intel;Ivy Bridge;Core i5;67;0.5;35;2800;2;22;x86;3768;HD Graphics 4000;4692;11;1.6
+Intel Core i5-430M;Intel;Arrandale;Core i5;49;0.5;35;2260;2;32;x86;4643;newitem;27485;17.73;NA
+Intel Core i3-2357M;Intel;Sandy Bridge;Core i3;12;0.5;17;1300;2;32;x86;4110;HD Graphics 3000;1645;29.58;NA
+Intel Core i5-460M;Intel;Arrandale;Core i5;80;0.5;35;2530;2;32;x86;4409;newitem;3080;16;NA
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+Intel Pentium Gold 4417U;Intel;Kaby Lake Refresh;Kaby Lake Refresh;47;1;15;2300;2;14;x86;1320;HD Graphics 610;3570;17.25;1.4
+AMD A10 Pro-7350B;AMD;Kaveri;Kaveri;42;4;19;2100;4;28;x86;3037;Radeon R6 (Kaveri);2003.5;24.44;1.15
+Intel Atom Z3795;Intel;Bay Trail-T;Atom;20;2;4;1590;4;22;x86;3063;HD Graphics (Bay Trail);1234;36.63;0.89
+Intel Core i5-5257U;Intel;Broadwell;Core i5;51;0.5;28;2700;2;14;x86;2821;Iris Graphics 6100;4825;12.43;1.9
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+Intel Core i7-2617M;Intel;Sandy Bridge;Core i7;59;0.5;17;1500;2;32;x86;4285;HD Graphics 3000;3315;15.27;NA
+Intel Core i5-2415M;Intel;Sandy Bridge;Core i5;45;0.5;35;2300;2;32;x86;4237;HD Graphics 3000;3666;13;NA
+Intel Pentium B940;Intel;Sandy Bridge;Pentium;33;0.5;35;2000;2;32;x86;4153;HD Graphics (Sandy Bridge);2609.5;19.9;NA
+AMD A6-5200;AMD;Kabini;A-Series;20;2;25;2000;4;28;x86;3414;Radeon HD 8400;1598;25.15;1.05
+Intel Celeron N2820;Intel;Bay Trail-M;Celeron;39;1;7.5;2170;2;22;x86;3222;HD Graphics (Bay Trail);1061;36.5;0.13
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+Intel Core 2 Extreme X7900;Intel;Merom;Core 2 Extreme;31;4;44;2800;2;65;x86;5505;newitem;3022;19;NA
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+Intel Atom Z3770;Intel;Bay Trail-T;Atom;56;2;4;1460;4;22;x86;3303;HD Graphics (Bay Trail);1189;36;0.86
+AMD A8-4500M;AMD;Trinity;A-Series;60;4;35;1900;4;32;x86;3787;Radeon HD 7640G;1820.5;40.76;1.1
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+Intel Celeron M P4500;Intel;Arrandale;Celeron M;44;0.5;35;1860;2;32;x86;4562;newitem;2533;24;NA
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+Intel Atom x5-Z8500;Intel;Cherry Trail;Atom x5;20;2;NA;1440;4;14;x86;2766;HD Graphics (Cherry Trail);1166;38.84;0.64
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+Intel Core i5-450M;Intel;Arrandale;Core i5;32;0.5;35;2400;2;32;x86;4501;newitem;2922.5;16.35;NA
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+Intel Pentium N3530;Intel;Bay Trail-M;Pentium;44;2;7.5;2160;4;22;x86;3138;HD Graphics (Bay Trail);1312.5;33;0.28
+Intel Core Duo T2500;Intel;Yonah;Core Duo;22;2;31;2000;2;65;x86;6109;newitem;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+AMD A8-7100;AMD;Kaveri;Kaveri;45;4;19;1800;4;28;x86;3037;Radeon R5 (Kaveri);1379;27.17;1.05
+Intel Core 2 Duo T7250;Intel;Merom;Core 2 Duo;37;2;35;2000;2;65;x86;5535;newitem;2072.5;29.5;NA
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+Intel Core i7-6600U;Intel;Skylake;Core i7;57;0.5;15;2600;2;14;x86;2583;HD Graphics 520;5298;11.06;1.9
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+AMD A10-5757M;AMD;Richland;A-Series;67;4;35;2500;4;32;x86;3414;Radeon HD 8650G;2182;39;1.1
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+Intel Core Duo T2700;Intel;Yonah;Core Duo;21;2;31;2330;2;65;x86;5905;newitem;NA;25;NA
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+Intel Celeron N5105;Intel;Jasper Lake;Jasper Lake;32;1.5;10;2000;4;10;x86;624;UHD Graphics (Jasper Lake 24 EU);NA;NA;NA
+Intel Celeron N2840;Intel;Bay Trail-M;Celeron;16;1;7.5;2160;2;22;x86;3050;HD Graphics (Bay Trail);1331;NA;NA
+Intel Core i5-6360U;Intel;Skylake;Core i5;56;0.5;15;2000;2;14;x86;2583;Iris Graphics 540;4846;12.3;1.8
+Intel Core i3-4005U;Intel;Haswell;Core i3;50;0.5;15;1700;2;22;x86;3313;HD Graphics 4400;2514;21.87;1
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+Intel Core i5-4310U;Intel;Haswell;Core i5;77;0.5;15;2000;2;22;x86;3173;HD Graphics 4400;5897;13;1.6
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+Intel Core i3-4010U;Intel;Haswell;Core i3;45;0.5;15;1700;2;22;x86;3402;HD Graphics 4400;2469;22.02;NA
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+Intel Core 2 Duo P9700;Intel;Penryn;Core 2 Duo;42;6;28;2800;2;45;x86;4927;newitem;3425;16;NA
+Intel Atom x5-Z8550;Intel;Cherry Trail;Atom x5;40;2;NA;1440;4;14;x86;2766;HD Graphics 400 (Braswell);NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+Intel Core i7-3520M;Intel;Ivy Bridge;Core i7;68;0.5;35;2900;2;22;x86;3768;HD Graphics 4000;4855;10;1.7
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+AMD A9-9425;AMD;Stoney Ridge;Bristol Ridge;49;1;15;3100;2;28;x86;2309;Radeon R5 (Stoney Ridge);2686;17.04;0.95
+Intel Core i3-6100H;Intel;Skylake;Core i3;54;0.5;35;2700;2;14;x86;2583;HD Graphics 530;4380;14;1.7
+Intel Core 2 Duo T6600;Intel;Penryn;Core 2 Duo;29;2;35;2200;2;45;x86;5012;newitem;2355;23;NA
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+AMD A6-5350M;AMD;Richland;A-Series;44;1;35;2900;2;32;x86;3486;Radeon HD 8450G;2480.5;29.04;0.81
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+Intel Core Duo T2250;Intel;Yonah;Core Duo;15;2;31;1700;2;65;x86;5993;newitem;1537;38.86;NA
+Intel Core i7-8500Y;Intel;Amber Lake-Y;Amber Lake;80;0.5;5;1500;2;14;x86;1489;UHD Graphics 615;5027;9.34;2.2
+Intel Celeron N4505;Intel;Jasper Lake;Jasper Lake;55;1.5;10;2000;2;10;x86;624;UHD Graphics (Jasper Lake 16 EU);3637;21.9;1.3
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+Intel Core i7-4610Y;Intel;Haswell;Core i7;55;0.5;11.5;1700;2;22;x86;3313;HD Graphics 4200;4140;12.95;1.4
+Intel Core i5-6200U;Intel;Skylake;Core i5;73;0.5;15;2300;2;14;x86;2583;HD Graphics 520;43830;13.74;1.7
+Intel Celeron N3350;Intel;Apollo Lake;Celeron;22;2;6;1100;2;14;x86;2217;HD Graphics 500;1490;27.5;0.65
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+Intel Core i7-2620M;Intel;Sandy Bridge;Core i7;40;0.5;35;2700;2;32;x86;4237;HD Graphics 3000;4333;11;NA
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+Intel Core 2 Duo T5850;Intel;Merom;Core 2 Duo;53;2;34;2100;2;65;x86;5109;newitem;2161;27;NA
+AMD A10-9620P;AMD;Bristol Ridge;Bristol Ridge;78;2;15;2500;4;28;x86;2095;Radeon R5 (Bristol Ridge);2277;18.24;NA
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+AMD A6-9220e;AMD;Stoney Ridge;Bristol Ridge;33;1;6;1600;2;28;x86;1944;Radeon R4 (Stoney Ridge);1056;66.44;0.34
+Intel Core i7-6650U;Intel;Skylake;Core i7;74;0.5;15;2200;2;14;x86;2583;Iris Graphics 540;5223;11.72;2
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+Intel Atom Z3775;Intel;Bay Trail-T;Atom;38;2;4;1460;4;22;x86;3040;HD Graphics (Bay Trail);1144;36.26;0.89
+Intel Core 2 Duo T7600;Intel;Merom;Core 2 Duo;23;4;34;2330;2;65;x86;5874;newitem;NA;22;NA
+Intel Celeron N4100;Intel;Gemini Lake;Gemini Lake;62;4;6;1100;4;14;x86;1751;UHD Graphics 600;2013;28.5;1.7
+AMD A4-5300;AMD;Trinity;A-Series (Desktop);50;2;65;3400;2;32;x86;3653;Radeon HD 7480D;2734;27.5;0.82
+Intel Core i5-3380M;Intel;Ivy Bridge;Core i5;78;0.5;35;2900;2;22;x86;3556;HD Graphics 4000;NA;11.7;NA
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+Intel Pentium Gold 5405U;Intel;Whiskey Lake-U;Pentium;40;0.5;15;2300;2;14;x86;1343;UHD Graphics 610;3560.5;16.96;1.35
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+AMD A8-5600K;AMD;Trinity;A-Series (Desktop);51;4;100;3600;4;32;x86;3653;Radeon HD 7560D;2941;25.4;1.8
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+Intel Celeron B810;Intel;Sandy Bridge;Celeron;50;NA;35;1600;2;32;x86;4214;HD Graphics (Sandy Bridge);2091;24.5;NA
+Intel Core i7-740QM;Intel;Clarksfield;Core i7;73;1;45;1730;4;45;x86;4752;newitem;3082;14.29;NA
+Intel Pentium Silver N6005;Intel;Jasper Lake;Jasper Lake;52;1.5;10;2000;4;10;x86;624;UHD Graphics (Jasper Lake 32 EU);3776;17.58;2.6
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+AMD E2-3800;AMD;Kabini;A-Series;28;2;15;1300;4;28;x86;3251;Radeon HD 8280;2295;47.84;0.79
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+AMD A8-3520M;AMD;Llano;A-Series;38;4;35;1600;4;32;x86;4014;Radeon HD 6620G;1757;36.39;NA
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+Intel Core i3-4020Y;Intel;Haswell;Core i3;67;0.5;11.5;1500;2;22;x86;3313;HD Graphics 4200;1621;24.4;0.9
+Intel Core 2 Quad Q9100;Intel;Penryn;Core 2 Quad;54;12;45;2260;4;45;x86;5151;newitem;2905;20;NA
+AMD Athlon II M300;AMD;Caspian;Athlon II;38;1;35;2000;2;45;x86;4765;newitem;1700;40;NA
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+Intel Core i3-3220;Intel;Ivy Bridge;Core i3 (Desktop);122;NA;55;3300;2;22;x86;3824;HD Graphics 2500;4626;11.6;0.32
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+Intel Pentium Dual Core T2330;Intel;Merom;Pentium Dual Core;14;1;35;1600;2;65;x86;5444;newitem;1538;38.5;NA
+Intel Core i7-2635QM;Intel;Sandy Bridge;Core i7;78;1;45;2000;4;32;x86;4282;HD Graphics 3000;3699;14;NA
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+AMD Ryzen 3 3250U;AMD;Zen;Picasso (Ryzen 3000 APU);76;1;15;2600;2;14;x86;995;Vega 3;4088;12.72;1.9
+Intel Pentium Dual Core T2060;Intel;Yonah;Pentium Dual Core;6;1;31;1600;2;65;x86;5993;newitem;NA;41;NA
+Intel Celeron J4125;Intel;Gemini Lake Refresh;Gemini Lake;54;4;10;2000;4;14;x86;1058;UHD Graphics 600;2182.5;35.05;1.85
+AMD 3020e;AMD;Zen;Raven Ridge (Ryzen 2000 APU);47;1;6;1200;2;14;x86;784;Vega 3;NA;16.95;1.1
+AMD Athlon Silver 3050e;AMD;Zen;Raven Ridge (Ryzen 2000 APU);58;1;6;1400;2;14;x86;848;Vega 3;3339;41.6;1.3
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+Intel Core i3-3110M;Intel;Ivy Bridge;Core i3;48;0.5;35;2400;2;22;x86;3678;HD Graphics 4000;NA;15.97;0.12
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+Intel Core 2 Duo T5600;Intel;Merom;Core 2 Duo;28;2;34;1830;2;65;x86;5905;newitem;NA;31;NA
+Intel Core i5-3320M;Intel;Ivy Bridge;Core i5;44;0.5;35;2600;2;22;x86;3768;HD Graphics 4000;4415.5;11.86;1.5
+Intel Core 2 Duo T7100;Intel;Merom;Core 2 Duo;37;2;34;1800;2;65;x86;5620;newitem;1817;31;NA
+AMD Phenom II X4 N950;AMD;Champlain;Phenom II X4;36;2;35;2100;4;45;x86;4376;newitem;1816;36.8;NA
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+Intel Core M-5Y51;Intel;Broadwell;Core M;48;0.5;4.5;1100;2;14;x86;2857;HD Graphics 5300;3190;15.45;1.1
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+Intel Pentium 2129Y;Intel;Ivy Bridge;Pentium;7;0.5;10;1100;2;22;x86;3556;HD Graphics (Ivy Bridge);1502;34.63;0.1
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+Intel Core 2 Duo (Desktop) E6700;Intel;Conroe;Core 2 Duo (Desktop);30;4;65;2660;2;65;x86;5906;newitem;2710;NA;NA
+Intel Core i7-5600U;Intel;Broadwell;Core i7;84;0.5;15;2600;2;14;x86;2822;HD Graphics 5500;4944;12.13;1.9
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+Intel Core i5-580M;Intel;Arrandale;Core i5;78;0.5;35;2666;2;32;x86;4384;newitem;3519;13;NA
+AMD Turion X2 Ultra ZM-84;AMD;Puma;Turion X2 Ultra;43;2;35;2300;2;65;x86;5228;newitem;1886;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+Intel Core i3-350M;Intel;Arrandale;Core i3;48;0.5;35;2260;2;32;x86;4643;newitem;2453;19;NA
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+Intel Celeron 1000M;Intel;Ivy Bridge;Celeron;55;0.5;35;1800;2;22;x86;3536;HD Graphics (Ivy Bridge);2480;21.25;0.16
+Intel Core i5-5200U;Intel;Broadwell;Core i5;75;0.5;15;2200;2;14;x86;2822;HD Graphics 5500;4135.58;14.5;1.5
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+Intel Core 2 Duo P8800;Intel;Penryn;Core 2 Duo;39;3;25;2660;2;45;x86;4927;newitem;2932;19.45;NA
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+Intel Core Duo T2300;Intel;Yonah;Core Duo;10;2;31;1660;2;65;x86;6109;newitem;NA;35;NA
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+Intel Core i5-4302Y;Intel;Haswell;Core i5;55;0.5;11.5;1600;2;22;x86;3313;HD Graphics 4200;3310;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+Intel Celeron N3060;Intel;Braswell;Celeron;37;2;6;1600;2;14;x86;2736;HD Graphics 400 (Braswell);1267;27.45;0.45
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+Intel Core i3-2375M;Intel;Sandy Bridge;Core i3;24;0.5;17;1500;2;32;x86;3523;HD Graphics 3000;1978;26;0.13
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+Intel Pentium 2020M;Intel;Ivy Bridge;Pentium;48;0.5;35;2400;2;22;x86;3648;HD Graphics (Ivy Bridge);3299;16.74;0.2
+AMD A10-5800K;AMD;Trinity;A-Series (Desktop);78;4;100;3800;4;32;x86;3653;Radeon HD 7660D;3093.5;24.2;1.9
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+Intel Core 2 Duo T6500;Intel;Penryn;Core 2 Duo;48;2;35;2100;2;45;x86;5017;newitem;2249;24.5;NA
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+Intel Core i5-560UM;Intel;Arrandale;Core i5;41;0.5;18;1333;2;32;x86;4379;newitem;NA;22;NA
+Intel Core i7-6500U;Intel;Skylake;Core i7;56;0.5;15;2500;2;14;x86;2583;HD Graphics 520;48869;12.18;1.8
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+Intel Core Duo T2600;Intel;Yonah;Core Duo;42;2;31;2160;2;65;x86;6109;newitem;NA;28;NA
+Intel Core 2 Duo T5750;Intel;Merom;Core 2 Duo;57;2;34;2000;2;65;x86;5262;newitem;NA;28;NA
+Intel Core i3-330M;Intel;Arrandale;Core i3;68;0.5;35;2130;2;32;x86;4643;newitem;23301;213;NA
+Intel Pentium Dual Core T2410;Intel;Merom;Pentium Dual Core;51;1;35;2000;2;65;x86;5139;newitem;1896;NA;NA
+Intel Core m3-7Y30;Intel;Kaby Lake;Kaby Lake;64;0.5;4.5;1000;2;14;x86;2219;HD Graphics 615;4086;14.71;1.5
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+Intel Core i3-2328M;Intel;Sandy Bridge;Core i3;44;0.5;35;2200;2;32;x86;3647;HD Graphics 3000;NA;17.78;0.2
+Intel Core i3-7100U;Intel;Kaby Lake;Kaby Lake;53;0.5;15;2400;2;14;x86;2219;HD Graphics 620;3874;14.93;NA
+Intel Atom Z3735F;Intel;Bay Trail-T;Atom;27;2;4;1330;4;22;x86;3063;HD Graphics (Bay Trail);945;27.45;0.62
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+Intel Pentium Dual Core T4200;Intel;Penryn;Pentium Dual Core;57;1;35;2000;2;45;x86;5017;newitem;2013;25;NA
+Intel Atom x7-E3950;Intel;Apollo Lake;Atom;31;2;12;1600;4;14;x86;2178;HD Graphics 505;1304;38.97;1
+Intel Pentium 977;Intel;Sandy Bridge;Pentium;13;0.5;17;1400;2;32;x86;3831;HD Graphics (Sandy Bridge);NA;27;0.11
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+AMD Phenom II X3 N850;AMD;Champlain;Phenom II X3;37;1.5;35;2200;3;45;x86;4376;newitem;1922;34.95;NA
+Intel Atom Z3740;Intel;Bay Trail-T;Atom;20;2;4;1330;4;22;x86;3303;HD Graphics (Bay Trail);963;24.5;0.73
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+Intel Core i5-4260U;Intel;Haswell;Core i5;41;0.5;15;1400;2;22;x86;3088;HD Graphics 5000;3951;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+AMD Turion II Neo K685;AMD;Geneva;Turion II Neo;8;1;15;1800;2;45;x86;4304;newitem;1424;42;NA
