@@ -39,7 +39,7 @@ mean(df)
 barplot(table(dataframe$Days.old, dataframe$Cores), beside = TRUE, col = "green")
 
 
-tabla = read.csv("grupo2_datos.csv", header = TRUE, sep = ";")
+tabla<- read.csv("grupo2_datos.csv", header = TRUE, sep = ";")
 
 names(tabla)
 preciosXcores = aggregate(tabla$precio, na.omit(list(tabla$Cores)), FUN=mean)
@@ -82,9 +82,44 @@ t <- table(tabla$precio, tabla$MHz)
 
 ggplot(data = tabla, aes(x = MHz, y = TrueCrypt.AES)) + geom_point(aes (color=as.character(Cores)), size = .1)
 
-ggplot(data = tabla) , aes(x = Fabricante, y = Cinebench.R10.32Bit.Single, color=Fabricante)) + geom_boxplot(lwd = .3, fatten = .3) + stat_boxplot(geom = 'errorbar', lwd = .3, fatten = .3)
+ggplot(data = tabla[ !is.na(tabla$precio) & !is.na(tabla$Fabricante),] , aes(x = Fabricante, y = precio, color=Fabricante)) + geom_boxplot(lwd = .3, fatten = .3) + stat_boxplot(geom = 'errorbar', lwd = .3, fatten = .3)
 
-ggplot(data = tabla, aes(x = Days.old)) + geom_histogram(aes(fill = Fabricante), binwidth = 100, color = "black", lwd = .3) + scale_fill_brewer(palette = "Set1")
+boxplot_sin_nas <- function(x, y, data, ...) {
+  ggplot(data = data[!is.na(data[[x]]) & !is.na(data[[y]]),], aes_string(x, y, color=x)) +
+    geom_boxplot(..., lwd = .3, fatten = .3) +
+    stat_boxplot(geom = "errorbar")
+}
+
+boxplot_sin_nas("Fabricante", "TrueCrypt.AES", tabla)
+
+scatterplot_sin_nas_con_regresion <- function(x, y, z, data, ...)
+{
+    ggplot(data = data[!is.na(data[[x]]) & !is.na(data[[y]]),], aes_string(x, y, color=z)) +
+        geom_point(size = .1) +
+        geom_smooth(method = lm, se = FALSE, ...)
+}
+
+scatterplot_sin_nas_sin_regresion <- function(x, y, z, data, ...)
+{
+    ggplot(data = data[!is.na(data[[x]]) & !is.na(data[[y]]),], aes_string(x, y, color=z)) +
+        geom_point(size = .1)
+}
+
+tabla$cores2 <- as.factor(tabla$Cores)
+scatterplot_sin_nas_sin_regresion_factores <- function (x, y, z, data, ...)
+{
+    ggplot(data = data[!is.na(data[[x]]) & !is.na(data[[y]]),], aes_string(x, y, color=z)) +
+        scale_color_gradient(low = "purple", high = "green") +
+        geom_point(size = .1)
+
+}
+
+scatterplot_sin_nas_con_regresion("TrueCrypt.AES", "MHz", "Fabricante", tabla)
+
+scatterplot_sin_nas_sin_regresion_factores("SuperPI.1M.", "MHz", "Cores", tabla)
+scatterplot_sin_nas_sin_regresion("Cinebench.R10.32Bit.Single", "MHz", "Fabricante", tabla)
+
+ggplot(data = tabla[tabla$Cinebench.R10.32Bit.Single != "na" & tabla$Fabricante != "na",], aes(x = Days.old)) + geom_histogram(aes(fill = Fabricante), binwidth = 100, color = "black", lwd = .3) + scale_fill_brewer(palette = "Set1")
 
 (na.omit(tabla[tabla$Fabricante == "Microsoft ",]))
 
@@ -105,11 +140,12 @@ min(na.omit(tabla$L2.Cache.MB.))
 
 
 for(var in names(tabla)){
-  if(class(tabla[[var]]) == "integer")
+  if(class(tabla[[var]]) == "integer" | class(tabla[[var]]) == "numeric")
   {
     print(paste(var, " min:", min(na.omit(tabla[[var]]))))
     print(paste(var, "max:", max(na.omit(tabla[[var]]))))
-    print(paste(var, " mean:", mean(na.omit(tabla[[var]]))))
+    print(paste(var, " media:", mean(na.omit(tabla[[var]]))))
+    print(paste(var, " mediana:", median(na.omit(tabla[[var]]))))
     qvar <- var(na.omit(tabla[[var]]))
     var2 <- qvar * length(na.omit(tabla[[var]])) / (length(na.omit(tabla[[var]])) - 1)
     print(paste(var, "varianza:", var2))
@@ -139,6 +175,6 @@ mean(na.omit(tabla$TDP.Watt))
 info <- melt(df, id.vars = "x")
 ggplot(data = tabla, aes(x = MHz)) +
 
+  tb2 = tabla[complete.cases(tabla[,1:16]),]
 
-
-
+corrplot::corrplot(cor(tabla[6: 9,]), method = "circle", type = "lower", order = "hclust", tl.col = "black", tl.srt = 45)
