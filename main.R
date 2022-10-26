@@ -15,7 +15,7 @@ plot(dataframe$Days.old, dataframe$precio)
 df3 <- data.frame(mhz = dataframe$MHz, precio = dataframe$precio, fabricante = dataframe$Fabricante)
 
 exponential.model <- lm(log(precio) ~ Days.old, data = dataframe)
-timevalues = seq(0, 7000, .1)
+timevalues <- seq(0, 7000, .1)
 plot(dataframe$MHz, dataframe$precio, pch = 20, cex = 1.5, col = c("blue", "red", "gray", "green", "yellow")[dataframe$Fabricante], xlab = "MHz", ylab = "precio")
 plot(df3$mhz, df3$precio, pch = 20, cex = 1.5, col = df3$fabricante, xlab = "MHz", ylab = "precio")
 lines(timevalues, exp(predict(exponential.model, list(Days.old = timevalues))), col = "red", lwd = 2)
@@ -42,13 +42,13 @@ barplot(table(dataframe$Days.old, dataframe$Cores), beside = TRUE, col = "green"
 tabla<- read.csv("grupo2_datos.csv", header = TRUE, sep = ";")
 
 names(tabla)
-preciosXcores = aggregate(tabla$precio, na.omit(list(tabla$Cores)), FUN=mean)
+preciosXcores <- aggregate(tabla$precio, na.omit(list(tabla$Cores)), FUN=mean)
 names(preciosXcores)<- c("nCores","avgPrecio")
 preciosXcores
 tabla$Days.old
 
 table(tabla$Architecture)
-frecuenciaXcores = aggregate(tabla$MHz, list(tabla$Cores), FUN=mean)
+frecuenciaXcores <- aggregate(tabla$MHz, list(tabla$Cores), FUN=mean)
 names(frecuenciaXcores)<- c("nCores","frecuencia")
 
 #barplot(preciosXcores$avgPrecio, preciosXcores$nCores,
@@ -75,7 +75,7 @@ min(na.omit(tabla$precio))
 
 library(corrplot)
 library(naturalsort)
-cor_tabla = cor(na.omit(tabla[5: 10]))
+cor_tabla <- cor(na.omit(tabla[5: 10]))
 corrplot::corrplot(cor_tabla, method = "circle", type = "lower", order = "hclust", tl.col = "black", tl.srt = 45)
 
 t <- table(tabla$precio, tabla$MHz)
@@ -90,7 +90,15 @@ boxplot_sin_nas <- function(x, y, data, ...) {
     stat_boxplot(geom = "errorbar")
 }
 
-boxplot_sin_nas("Fabricante", "TrueCrypt.AES", tabla)
+boxplot_sin_nas_continuo <- function(x, y , data, ...)
+{
+  ggplot(data = data[!is.na(data[[x]]) & !is.na(data[[y]]),], aes_string(x, y, color=x, group=x)) +
+    scale_color_gradient(low = "blue", high = "red") +
+    geom_boxplot(..., lwd = .3, fatten = .3) +
+    stat_boxplot(geom = "errorbar")
+}
+
+boxplot_sin_nas_continuo("Fabricante", "precio", tabla)
 
 scatterplot_sin_nas_con_regresion <- function(x, y, z, data, ...)
 {
@@ -102,22 +110,27 @@ scatterplot_sin_nas_con_regresion <- function(x, y, z, data, ...)
 scatterplot_sin_nas_sin_regresion <- function(x, y, z, data, ...)
 {
     ggplot(data = data[!is.na(data[[x]]) & !is.na(data[[y]]),], aes_string(x, y, color=z)) +
-        geom_point(size = .1)
+        geom_point(size = 1)
 }
 
 tabla$cores2 <- as.factor(tabla$Cores)
 scatterplot_sin_nas_sin_regresion_factores <- function (x, y, z, data, ...)
 {
     ggplot(data = data[!is.na(data[[x]]) & !is.na(data[[y]]),], aes_string(x, y, color=z)) +
-        scale_color_gradient(low = "purple", high = "green") +
-        geom_point(size = .1)
+        scale_color_gradient(low = "red", high = "blue") +
+        geom_point(size = .5)
 
 }
+names(tabla)
 
-scatterplot_sin_nas_con_regresion("TrueCrypt.AES", "MHz", "Fabricante", tabla)
+tabla$Process.nm.
 
-scatterplot_sin_nas_sin_regresion_factores("SuperPI.1M.", "MHz", "Cores", tabla)
-scatterplot_sin_nas_sin_regresion("Cinebench.R10.32Bit.Single", "MHz", "Fabricante", tabla)
+max(na.omit(tabla$Cinebench.R10.32Bit.Single))
+
+scatterplot_sin_nas_con_regresion_factores("TrueCrypt.AE", "TDP.Watt", "Cinebench.R10.32Bit.Single", tabla)
+
+scatterplot_sin_nas_sin_regresion_factores("precio", "Process.nm.", "Cores", tabla)
+Process.nm.Process.nm.Process.nm.Process.nm.Process.nm.Process.nm.Process.nm.scatterplot_sin_nas_sin_regresion("Cinebench.R10.32Bit.Single", "MHz", "Fabricante", tabla)
 
 ggplot(data = tabla[tabla$Cinebench.R10.32Bit.Single != "na" & tabla$Fabricante != "na",], aes(x = Days.old)) + geom_histogram(aes(fill = Fabricante), binwidth = 100, color = "black", lwd = .3) + scale_fill_brewer(palette = "Set1")
 
@@ -162,7 +175,7 @@ for(var in names(tabla)){
   }
 }
 
-çmin(na.omit(tabla$TDP.Watt))
+min(na.omit(tabla$TDP.Watt))
 mean(na.omit(tabla$TDP.Watt))
 (qvar <- var(na.omit(tabla$TDP.Watt)))
 (var <-qvar * length(na.omit(tabla$TDP.Watt)) / (length(na.omit(tabla$TDP.Watt)) - 1))
@@ -176,5 +189,25 @@ info <- melt(df, id.vars = "x")
 ggplot(data = tabla, aes(x = MHz)) +
 
   tb2 = tabla[complete.cases(tabla[,1:16]),]
+names(tabla)
+library(corrplot)
 
-corrplot::corrplot(cor(tabla[6: 9,]), method = "circle", type = "lower", order = "hclust", tl.col = "black", tl.srt = 45)
+dif_corplot <- function (x, y, ...)
+{
+  cor_tabla <- tabla[complete.cases(tabla),]
+  cor_x <- cor_tabla[,y]
+  cor_y <- cor_tabla[,x]
+  corrplot(cor(cor_x, cor_y), ...)
+}
+
+dif_corplot(c("Cinebench.R10.32Bit.Single", "SuperPI.1M.", "TrueCrypt.AES", "Days.old"),
+  c("precio"))
+
+cor_tabla <- tabla[complete.cases(tabla),]
+
+cor_x <- cor_tabla[,c("Cinebench.R10.32Bit.Single", "SuperPI.1M.", "TrueCrypt.AES", "Days.old")]
+cor_y <- cor_tabla[,c("precio", "TDP.Watt", "Process.nm.", "Cores")]
+corrplot(cor(cor_x, cor_tabla[,5]))
+cor_tabla_num <- unlist(lapply(cor_tabla, is.numeric))
+corrplot(cor(cor_tabla[, cor_tabla_num]))
+help(corrplot)
